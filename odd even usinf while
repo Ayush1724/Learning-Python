@@ -1,0 +1,11 @@
+od=0
+ev=0
+n=1
+while(n<=20):
+    if n%2==0:
+        ev=ev+n
+    else:
+        od=od+n
+    n+=1
+print("even :- ",ev)
+print("odd:- ",od)        

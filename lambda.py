@@ -1,0 +1,8 @@
+mylist=list(map (lambda x:x ,"bhopal"))
+s=list(map (lambda g:g//2 , range(0,11)))
+r=list(map (lambda g:g**2 , range(0,11)))
+p=list(map (lambda g:g/2 , range(0,11)))
+print(s)
+print(r)
+print(p)
+print(mylist)

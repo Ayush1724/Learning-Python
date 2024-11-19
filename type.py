@@ -1,0 +1,3 @@
+tu =()
+
+print(type(tu))

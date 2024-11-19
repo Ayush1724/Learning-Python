@@ -1,0 +1,11 @@
+s={1,2,3,4,5,6,7,8,9}
+t={2,4,6,8,10,12,14,16,18}
+s.add(45)
+s.pop()
+s.remove(8)
+a=s.union(t)
+print(a)
+r=s.intersection(t)
+print(r)
+b=s.difference(t)
+print(b)
